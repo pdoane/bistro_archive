@@ -1,0 +1,4 @@
+PEST|0.4|0|2024-09-24T17:32:06Z|123246844|0|2|2
+idx|         hashkey|        checksum|            meta|offset|size|compres|v|type|path
+000|7ccfa0c22916058b|c0faf858fc8d1e75|0000000000000000|0|95441700|95441700|1|Mesh|bistro/bistro_exterior
+001|a1a66aee0316a335|62827502acfdb0bb|0000000000000000|0|27805144|27805144|1|Mesh|bistro/bistro_interior
